@@ -5,3 +5,4 @@ belajar git bersama ka aziz
 git commit -m "update changer" ==> buat ngesave di lokal, sebelum di git commit di add dulu // setiap mau commit harus di git add dulu
 git add . ==> buat semua file, git add <copy path nya> ==> buat hanya suata file nya saja
 git push ==> buat update ke github
+git pull ==> buat mengconnect kan dari jaringan local ke github
